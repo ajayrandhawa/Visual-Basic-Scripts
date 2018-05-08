@@ -1,0 +1,1 @@
+msgbox strReverse("foro.elhacker.net")
