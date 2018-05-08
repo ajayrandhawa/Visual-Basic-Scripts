@@ -1,5 +1,5 @@
 # Visual-Basic-Scripts
-Visual Basic Scripts Utilities. Fun, Automation, Fundamentals. 
+Visual Basic Scripts Utilities. Fun, Automation, Fundamentals. With the help of these scripts, I develop lots of Exploits which I'm used for automation system tasks. these vb scripts I am also used for system security exploitation.
 
 ## Project Files
 
